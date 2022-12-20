@@ -1,0 +1,18 @@
+[
+    {
+        "category_id" : "1",
+        "category_name": "Maintenance"
+    },
+    {
+        "category_id" : "2",
+        "category_name": "Cleaning"
+    },
+    {
+        "category_id" : "3",
+        "category_name": "Inspection"
+    },
+    {
+        "category_id" : "4",
+        "category_name": "All"
+    }
+]   

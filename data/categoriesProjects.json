@@ -1,0 +1,39 @@
+[
+    {
+        "id" : "1",
+        "name": "Maintenance",
+        "imgUrl1": "https://i.ibb.co/7rk93DP/g2.jpg",
+        "imgUrl2":"https://i.ibb.co/DCWrxMy/g3.jpg",
+        "imgUrl3":"https://i.ibb.co/M9YBjHR/g4.jpg",
+        "imgUrl4": "https://i.ibb.co/dk5zFzc/g5.jpg"
+    },
+    {
+        "id" : "2",
+        "name": "Cleaning",
+        "imgUrl1":"https://i.ibb.co/z7t7gy3/g6.jpg",
+        "imgUrl2":"https://i.ibb.co/c8XfZgf/g1.jpg",
+        "imgUrl3": "https://i.ibb.co/7rk93DP/g2.jpg",
+        "imgUrl4":"https://i.ibb.co/M9YBjHR/g4.jpg"
+    },
+    {
+        "id" : "3",
+        "name": "Inspection",
+        "imgUrl1": "https://i.ibb.co/8d6L4RH/g7.jpg",
+        "imgUrl2": "https://i.ibb.co/ZKVr5VD/g8.jpg",
+        "imgUrl3":"https://i.ibb.co/vJ7jZCP/r1.jpg",
+        "imgUrl4":"https://i.ibb.co/M9YBjHR/g4.jpg"
+    },
+    {
+        "id" : "4",
+        "name": "All",
+        "imgUrl1": "https://i.ibb.co/7rk93DP/g2.jpg",
+        "imgUrl2":"https://i.ibb.co/DCWrxMy/g3.jpg",
+        "imgUrl3":"https://i.ibb.co/M9YBjHR/g4.jpg",
+        "imgUrl4": "https://i.ibb.co/dk5zFzc/g5.jpg",
+        "imgUrl5":"https://i.ibb.co/z7t7gy3/g6.jpg",
+        "imgUrl6":"https://i.ibb.co/c8XfZgf/g1.jpg",
+        "imgUrl7": "https://i.ibb.co/7rk93DP/g2.jpg",
+        "imgUrl8":"https://i.ibb.co/M9YBjHR/g4.jpg"
+        
+    }
+]   
